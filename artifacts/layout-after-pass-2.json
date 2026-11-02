@@ -1,0 +1,2216 @@
+[
+  {
+    "route": "/dashboard",
+    "width": 360,
+    "selector": "span",
+    "overflowPx": 20,
+    "reason": "container-edge",
+    "requestedWidth": 360,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 360,
+    "selector": "strong",
+    "overflowPx": 20,
+    "reason": "container-edge",
+    "requestedWidth": 360,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 360,
+    "selector": "section.dashboard-hero",
+    "overflowPx": 10,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 360,
+    "selector": "div.section-head",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 360,
+    "selector": "div.dashboard-lower",
+    "overflowPx": 14,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 360,
+    "selector": "section.card",
+    "overflowPx": 5,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 360,
+    "selector": "div",
+    "overflowPx": 26,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 360,
+    "selector": "span.kicker",
+    "overflowPx": 21,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 360,
+    "selector": "h2",
+    "overflowPx": 26,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 360,
+    "selector": "button.button.text.size-md",
+    "overflowPx": 16,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 360,
+    "selector": "span.button-label",
+    "overflowPx": 21,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 360,
+    "selector": "div.line-chart",
+    "overflowPx": 40,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 360,
+    "selector": "b",
+    "overflowPx": 24,
+    "reason": "container-edge",
+    "requestedWidth": 360,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 360,
+    "selector": "button.announcement-row",
+    "overflowPx": 27,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 360,
+    "selector": "span",
+    "overflowPx": 31,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 360,
+    "selector": "strong",
+    "overflowPx": 31,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 360,
+    "selector": "small",
+    "overflowPx": 29,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "100%"
+  },
+  {
+    "route": "/transcript",
+    "width": 360,
+    "selector": "header",
+    "overflowPx": 15,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "100%"
+  },
+  {
+    "route": "/transcript",
+    "width": 360,
+    "selector": "div",
+    "overflowPx": 15,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "100%"
+  },
+  {
+    "route": "/transcript",
+    "width": 360,
+    "selector": "h2",
+    "overflowPx": 15,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "100%"
+  },
+  {
+    "route": "/profile",
+    "width": 360,
+    "selector": "div.profile-photo",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 390,
+    "selector": "section.dashboard-hero",
+    "overflowPx": 10,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 390,
+    "selector": "div.section-head",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 390,
+    "selector": "div",
+    "overflowPx": 13,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 390,
+    "selector": "span.kicker",
+    "overflowPx": 8,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 390,
+    "selector": "h2",
+    "overflowPx": 13,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 390,
+    "selector": "button.button.text.size-md",
+    "overflowPx": 10,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 390,
+    "selector": "span.button-label",
+    "overflowPx": 15,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 390,
+    "selector": "div.line-chart",
+    "overflowPx": 15,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 390,
+    "selector": "span",
+    "overflowPx": 6,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 390,
+    "selector": "strong",
+    "overflowPx": 6,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 390,
+    "selector": "small",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 390,
+    "selector": "button.announcement-row",
+    "overflowPx": 7,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "100%"
+  },
+  {
+    "route": "/profile",
+    "width": 390,
+    "selector": "div.profile-photo",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 768,
+    "selector": "section.dashboard-hero",
+    "overflowPx": 10,
+    "reason": "scroll-width",
+    "requestedWidth": 768,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 768,
+    "selector": "div.section-head",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 768,
+    "zoom": "100%"
+  },
+  {
+    "route": "/profile",
+    "width": 768,
+    "selector": "div.profile-photo",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 768,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 1024,
+    "selector": "section.dashboard-hero",
+    "overflowPx": 10,
+    "reason": "scroll-width",
+    "requestedWidth": 1024,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 1024,
+    "selector": "div.section-head",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 1024,
+    "zoom": "100%"
+  },
+  {
+    "route": "/profile",
+    "width": 1024,
+    "selector": "div.profile-photo",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 1024,
+    "zoom": "100%"
+  },
+  {
+    "route": "/international",
+    "width": 1024,
+    "selector": "header.page-header",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 1024,
+    "zoom": "100%"
+  },
+  {
+    "route": "/international",
+    "width": 1024,
+    "selector": "div.page-actions",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 1024,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 1280,
+    "selector": "section.dashboard-hero",
+    "overflowPx": 10,
+    "reason": "scroll-width",
+    "requestedWidth": 1280,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 1280,
+    "selector": "div.section-head",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 1280,
+    "zoom": "100%"
+  },
+  {
+    "route": "/profile",
+    "width": 1280,
+    "selector": "div.profile-photo",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 1280,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 1440,
+    "selector": "section.dashboard-hero",
+    "overflowPx": 10,
+    "reason": "scroll-width",
+    "requestedWidth": 1440,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 1440,
+    "selector": "div.section-head",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 1440,
+    "zoom": "100%"
+  },
+  {
+    "route": "/profile",
+    "width": 1440,
+    "selector": "div.profile-photo",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 1440,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 1920,
+    "selector": "section.dashboard-hero",
+    "overflowPx": 10,
+    "reason": "scroll-width",
+    "requestedWidth": 1920,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 1920,
+    "selector": "div.section-head",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 1920,
+    "zoom": "100%"
+  },
+  {
+    "route": "/profile",
+    "width": 1920,
+    "selector": "div.profile-photo",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 1920,
+    "zoom": "100%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 288,
+    "selector": "html",
+    "overflowPx": 35,
+    "reason": "page-scroll",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 288,
+    "selector": "#root",
+    "overflowPx": 35,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 288,
+    "selector": "div.portal",
+    "overflowPx": 35,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 288,
+    "selector": "div.workspace",
+    "overflowPx": 34,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 288,
+    "selector": "span",
+    "overflowPx": 20,
+    "reason": "container-edge",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 288,
+    "selector": "strong",
+    "overflowPx": 20,
+    "reason": "container-edge",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 288,
+    "selector": "main.content",
+    "overflowPx": 34,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 288,
+    "selector": "section.dashboard-hero",
+    "overflowPx": 10,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 288,
+    "selector": "div.dashboard-lower",
+    "overflowPx": 50,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 288,
+    "selector": "div.line-chart",
+    "overflowPx": 76,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 288,
+    "selector": "div",
+    "overflowPx": 76,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 288,
+    "selector": "b",
+    "overflowPx": 15,
+    "reason": "container-edge",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 288,
+    "selector": "section.card",
+    "overflowPx": 52,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 288,
+    "selector": "div.section-head",
+    "overflowPx": 50,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 288,
+    "selector": "h2",
+    "overflowPx": 50,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 288,
+    "selector": "button.announcement-row",
+    "overflowPx": 63,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 288,
+    "selector": "span",
+    "overflowPx": 67,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 288,
+    "selector": "strong",
+    "overflowPx": 67,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 288,
+    "selector": "small",
+    "overflowPx": 65,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/transcript",
+    "width": 288,
+    "selector": "html",
+    "overflowPx": 56,
+    "reason": "page-scroll",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/transcript",
+    "width": 288,
+    "selector": "#root",
+    "overflowPx": 56,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/transcript",
+    "width": 288,
+    "selector": "div.portal",
+    "overflowPx": 56,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/transcript",
+    "width": 288,
+    "selector": "div.workspace",
+    "overflowPx": 56,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/transcript",
+    "width": 288,
+    "selector": "main.content",
+    "overflowPx": 56,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/transcript",
+    "width": 288,
+    "selector": "section.card.print-document",
+    "overflowPx": 73,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/transcript",
+    "width": 288,
+    "selector": "header",
+    "overflowPx": 87,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/transcript",
+    "width": 288,
+    "selector": "div",
+    "overflowPx": 87,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/transcript",
+    "width": 288,
+    "selector": "h2",
+    "overflowPx": 87,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/finance/vouchers",
+    "width": 288,
+    "selector": "span",
+    "overflowPx": 13,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/finance/vouchers",
+    "width": 288,
+    "selector": "strong",
+    "overflowPx": 13,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/profile",
+    "width": 288,
+    "selector": "div.profile-photo",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 312,
+    "selector": "html",
+    "overflowPx": 13,
+    "reason": "page-scroll",
+    "requestedWidth": 390,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 312,
+    "selector": "#root",
+    "overflowPx": 13,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 312,
+    "selector": "div.portal",
+    "overflowPx": 13,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 312,
+    "selector": "div.workspace",
+    "overflowPx": 13,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 312,
+    "selector": "main.content",
+    "overflowPx": 13,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 312,
+    "selector": "section.dashboard-hero",
+    "overflowPx": 10,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 312,
+    "selector": "div.dashboard-lower",
+    "overflowPx": 29,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 312,
+    "selector": "div.line-chart",
+    "overflowPx": 54,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 312,
+    "selector": "div",
+    "overflowPx": 54,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 312,
+    "selector": "span",
+    "overflowPx": 16,
+    "reason": "container-edge",
+    "requestedWidth": 390,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 312,
+    "selector": "b",
+    "overflowPx": 16,
+    "reason": "container-edge",
+    "requestedWidth": 390,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 312,
+    "selector": "section.card",
+    "overflowPx": 30,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 312,
+    "selector": "div.section-head",
+    "overflowPx": 28,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 312,
+    "selector": "h2",
+    "overflowPx": 28,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 312,
+    "selector": "button.announcement-row",
+    "overflowPx": 41,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 312,
+    "selector": "span",
+    "overflowPx": 45,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 312,
+    "selector": "strong",
+    "overflowPx": 45,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 312,
+    "selector": "small",
+    "overflowPx": 43,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "125%"
+  },
+  {
+    "route": "/transcript",
+    "width": 312,
+    "selector": "html",
+    "overflowPx": 32,
+    "reason": "page-scroll",
+    "requestedWidth": 390,
+    "zoom": "125%"
+  },
+  {
+    "route": "/transcript",
+    "width": 312,
+    "selector": "#root",
+    "overflowPx": 32,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "125%"
+  },
+  {
+    "route": "/transcript",
+    "width": 312,
+    "selector": "div.portal",
+    "overflowPx": 32,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "125%"
+  },
+  {
+    "route": "/transcript",
+    "width": 312,
+    "selector": "div.workspace",
+    "overflowPx": 32,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "125%"
+  },
+  {
+    "route": "/transcript",
+    "width": 312,
+    "selector": "main.content",
+    "overflowPx": 32,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "125%"
+  },
+  {
+    "route": "/transcript",
+    "width": 312,
+    "selector": "section.card.print-document",
+    "overflowPx": 49,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "125%"
+  },
+  {
+    "route": "/transcript",
+    "width": 312,
+    "selector": "header",
+    "overflowPx": 63,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "125%"
+  },
+  {
+    "route": "/transcript",
+    "width": 312,
+    "selector": "div",
+    "overflowPx": 63,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "125%"
+  },
+  {
+    "route": "/transcript",
+    "width": 312,
+    "selector": "h2",
+    "overflowPx": 63,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "125%"
+  },
+  {
+    "route": "/profile",
+    "width": 312,
+    "selector": "div.profile-photo",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 614,
+    "selector": "section.dashboard-hero",
+    "overflowPx": 10,
+    "reason": "scroll-width",
+    "requestedWidth": 768,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 614,
+    "selector": "div.section-head",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 768,
+    "zoom": "125%"
+  },
+  {
+    "route": "/profile",
+    "width": 614,
+    "selector": "div.profile-photo",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 768,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 819,
+    "selector": "section.dashboard-hero",
+    "overflowPx": 10,
+    "reason": "scroll-width",
+    "requestedWidth": 1024,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 819,
+    "selector": "div.section-head",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 1024,
+    "zoom": "125%"
+  },
+  {
+    "route": "/profile",
+    "width": 819,
+    "selector": "div.profile-photo",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 1024,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 1024,
+    "selector": "section.dashboard-hero",
+    "overflowPx": 10,
+    "reason": "scroll-width",
+    "requestedWidth": 1280,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 1024,
+    "selector": "div.section-head",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 1280,
+    "zoom": "125%"
+  },
+  {
+    "route": "/profile",
+    "width": 1024,
+    "selector": "div.profile-photo",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 1280,
+    "zoom": "125%"
+  },
+  {
+    "route": "/international",
+    "width": 1024,
+    "selector": "header.page-header",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 1280,
+    "zoom": "125%"
+  },
+  {
+    "route": "/international",
+    "width": 1024,
+    "selector": "div.page-actions",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 1280,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 1152,
+    "selector": "section.dashboard-hero",
+    "overflowPx": 10,
+    "reason": "scroll-width",
+    "requestedWidth": 1440,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 1152,
+    "selector": "div.section-head",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 1440,
+    "zoom": "125%"
+  },
+  {
+    "route": "/profile",
+    "width": 1152,
+    "selector": "div.profile-photo",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 1440,
+    "zoom": "125%"
+  },
+  {
+    "route": "/international",
+    "width": 1152,
+    "selector": "div.list-row-group",
+    "overflowPx": 21,
+    "reason": "scroll-width",
+    "requestedWidth": 1440,
+    "zoom": "125%"
+  },
+  {
+    "route": "/international",
+    "width": 1152,
+    "selector": "div.list-row",
+    "overflowPx": 21,
+    "reason": "scroll-width",
+    "requestedWidth": 1440,
+    "zoom": "125%"
+  },
+  {
+    "route": "/international",
+    "width": 1152,
+    "selector": "span.list-row-trailing",
+    "overflowPx": 33,
+    "reason": "scroll-width",
+    "requestedWidth": 1440,
+    "zoom": "125%"
+  },
+  {
+    "route": "/international",
+    "width": 1152,
+    "selector": "span.badge.success",
+    "overflowPx": 34,
+    "reason": "scroll-width",
+    "requestedWidth": 1440,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 1536,
+    "selector": "section.dashboard-hero",
+    "overflowPx": 10,
+    "reason": "scroll-width",
+    "requestedWidth": 1920,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 1536,
+    "selector": "div.section-head",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 1920,
+    "zoom": "125%"
+  },
+  {
+    "route": "/profile",
+    "width": 1536,
+    "selector": "div.profile-photo",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 1920,
+    "zoom": "125%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 240,
+    "selector": "html",
+    "overflowPx": 59,
+    "reason": "page-scroll",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 240,
+    "selector": "#root",
+    "overflowPx": 59,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 240,
+    "selector": "div.portal",
+    "overflowPx": 59,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 240,
+    "selector": "div.workspace",
+    "overflowPx": 58,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 240,
+    "selector": "span",
+    "overflowPx": 20,
+    "reason": "container-edge",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 240,
+    "selector": "strong",
+    "overflowPx": 20,
+    "reason": "container-edge",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 240,
+    "selector": "span",
+    "overflowPx": 24,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 240,
+    "selector": "main.content",
+    "overflowPx": 58,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 240,
+    "selector": "section.dashboard-hero",
+    "overflowPx": 10,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 240,
+    "selector": "button.schedule-row",
+    "overflowPx": 14,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 240,
+    "selector": "strong",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 240,
+    "selector": "div.dashboard-lower",
+    "overflowPx": 74,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 240,
+    "selector": "section.card",
+    "overflowPx": 6,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 240,
+    "selector": "div.section-head",
+    "overflowPx": 22,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 240,
+    "selector": "div",
+    "overflowPx": 22,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 240,
+    "selector": "span.kicker",
+    "overflowPx": 17,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 240,
+    "selector": "h2",
+    "overflowPx": 22,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 240,
+    "selector": "span.button-label",
+    "overflowPx": 6,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 240,
+    "selector": "div.line-chart",
+    "overflowPx": 100,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 240,
+    "selector": "b",
+    "overflowPx": 16,
+    "reason": "container-edge",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 240,
+    "selector": "button.announcement-row",
+    "overflowPx": 87,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 240,
+    "selector": "small",
+    "overflowPx": 77,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/timetable",
+    "width": 240,
+    "selector": "span",
+    "overflowPx": 5,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/attendance",
+    "width": 240,
+    "selector": "span",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/courses",
+    "width": 240,
+    "selector": "span",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/courses",
+    "width": 240,
+    "selector": "div.course-top",
+    "overflowPx": 15,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/registration",
+    "width": 240,
+    "selector": "span",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/registration",
+    "width": 240,
+    "selector": "span.button-label",
+    "overflowPx": 3,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/add-drop",
+    "width": 240,
+    "selector": "span",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/results",
+    "width": 240,
+    "selector": "span",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/exams",
+    "width": 240,
+    "selector": "span",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/admit-card",
+    "width": 240,
+    "selector": "span",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/transcript",
+    "width": 240,
+    "selector": "html",
+    "overflowPx": 104,
+    "reason": "page-scroll",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/transcript",
+    "width": 240,
+    "selector": "#root",
+    "overflowPx": 104,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/transcript",
+    "width": 240,
+    "selector": "div.portal",
+    "overflowPx": 104,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/transcript",
+    "width": 240,
+    "selector": "div.workspace",
+    "overflowPx": 104,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/transcript",
+    "width": 240,
+    "selector": "span",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/transcript",
+    "width": 240,
+    "selector": "main.content",
+    "overflowPx": 104,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/transcript",
+    "width": 240,
+    "selector": "section.card.print-document",
+    "overflowPx": 121,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/transcript",
+    "width": 240,
+    "selector": "header",
+    "overflowPx": 135,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/transcript",
+    "width": 240,
+    "selector": "div",
+    "overflowPx": 135,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/transcript",
+    "width": 240,
+    "selector": "span",
+    "overflowPx": 45,
+    "reason": "container-edge",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/transcript",
+    "width": 240,
+    "selector": "h2",
+    "overflowPx": 135,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/transcript",
+    "width": 240,
+    "selector": "small",
+    "overflowPx": 41,
+    "reason": "container-edge",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/transcript",
+    "width": 240,
+    "selector": "button.button.ghost.size-md",
+    "overflowPx": 17,
+    "reason": "container-edge",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/finance/ledger",
+    "width": 240,
+    "selector": "span",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/finance/vouchers",
+    "width": 240,
+    "selector": "span",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/finance/vouchers",
+    "width": 240,
+    "selector": "strong",
+    "overflowPx": 37,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/finance/vouchers",
+    "width": 240,
+    "selector": "small",
+    "overflowPx": 7,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/finance/payment",
+    "width": 240,
+    "selector": "span",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/finance/payment",
+    "width": 240,
+    "selector": "span.button-label",
+    "overflowPx": 7,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/requests",
+    "width": 240,
+    "selector": "span",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/documents",
+    "width": 240,
+    "selector": "span",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/documents",
+    "width": 240,
+    "selector": "small",
+    "overflowPx": 19,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/documents",
+    "width": 240,
+    "selector": "small",
+    "overflowPx": 19,
+    "reason": "clipped-text",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/notifications",
+    "width": 240,
+    "selector": "span",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/support",
+    "width": 240,
+    "selector": "span",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/profile",
+    "width": 240,
+    "selector": "span",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/profile",
+    "width": 240,
+    "selector": "div.profile-photo",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/settings",
+    "width": 240,
+    "selector": "span",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/settings",
+    "width": 240,
+    "selector": "span.button-label",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/international",
+    "width": 240,
+    "selector": "span",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/policies",
+    "width": 240,
+    "selector": "span",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/policies",
+    "width": 240,
+    "selector": "span.button-label",
+    "overflowPx": 10,
+    "reason": "scroll-width",
+    "requestedWidth": 360,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 260,
+    "selector": "html",
+    "overflowPx": 39,
+    "reason": "page-scroll",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 260,
+    "selector": "#root",
+    "overflowPx": 39,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 260,
+    "selector": "div.portal",
+    "overflowPx": 39,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 260,
+    "selector": "div.workspace",
+    "overflowPx": 39,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 260,
+    "selector": "main.content",
+    "overflowPx": 39,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 260,
+    "selector": "section.dashboard-hero",
+    "overflowPx": 10,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 260,
+    "selector": "div.dashboard-lower",
+    "overflowPx": 55,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 260,
+    "selector": "div.line-chart",
+    "overflowPx": 80,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 260,
+    "selector": "div",
+    "overflowPx": 80,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 260,
+    "selector": "span",
+    "overflowPx": 19,
+    "reason": "container-edge",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 260,
+    "selector": "b",
+    "overflowPx": 19,
+    "reason": "container-edge",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 260,
+    "selector": "section.card",
+    "overflowPx": 56,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 260,
+    "selector": "div.section-head",
+    "overflowPx": 54,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 260,
+    "selector": "h2",
+    "overflowPx": 54,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 260,
+    "selector": "button.announcement-row",
+    "overflowPx": 67,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 260,
+    "selector": "span",
+    "overflowPx": 71,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 260,
+    "selector": "strong",
+    "overflowPx": 71,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 260,
+    "selector": "small",
+    "overflowPx": 69,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/transcript",
+    "width": 260,
+    "selector": "html",
+    "overflowPx": 84,
+    "reason": "page-scroll",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/transcript",
+    "width": 260,
+    "selector": "#root",
+    "overflowPx": 84,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/transcript",
+    "width": 260,
+    "selector": "div.portal",
+    "overflowPx": 84,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/transcript",
+    "width": 260,
+    "selector": "div.workspace",
+    "overflowPx": 84,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/transcript",
+    "width": 260,
+    "selector": "main.content",
+    "overflowPx": 84,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/transcript",
+    "width": 260,
+    "selector": "section.card.print-document",
+    "overflowPx": 101,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/transcript",
+    "width": 260,
+    "selector": "header",
+    "overflowPx": 115,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/transcript",
+    "width": 260,
+    "selector": "div",
+    "overflowPx": 115,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/transcript",
+    "width": 260,
+    "selector": "span",
+    "overflowPx": 25,
+    "reason": "container-edge",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/transcript",
+    "width": 260,
+    "selector": "h2",
+    "overflowPx": 115,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/transcript",
+    "width": 260,
+    "selector": "small",
+    "overflowPx": 21,
+    "reason": "container-edge",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/finance/vouchers",
+    "width": 260,
+    "selector": "span",
+    "overflowPx": 27,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/finance/vouchers",
+    "width": 260,
+    "selector": "strong",
+    "overflowPx": 27,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/documents",
+    "width": 260,
+    "selector": "small",
+    "overflowPx": 10,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/documents",
+    "width": 260,
+    "selector": "small",
+    "overflowPx": 10,
+    "reason": "clipped-text",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/profile",
+    "width": 260,
+    "selector": "div.profile-photo",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 390,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 512,
+    "selector": "section.dashboard-hero",
+    "overflowPx": 10,
+    "reason": "scroll-width",
+    "requestedWidth": 768,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 512,
+    "selector": "div.section-head",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 768,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 512,
+    "selector": "div",
+    "overflowPx": 11,
+    "reason": "scroll-width",
+    "requestedWidth": 768,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 512,
+    "selector": "h2",
+    "overflowPx": 11,
+    "reason": "scroll-width",
+    "requestedWidth": 768,
+    "zoom": "150%"
+  },
+  {
+    "route": "/profile",
+    "width": 512,
+    "selector": "div.profile-photo",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 768,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 683,
+    "selector": "section.dashboard-hero",
+    "overflowPx": 10,
+    "reason": "scroll-width",
+    "requestedWidth": 1024,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 683,
+    "selector": "div.section-head",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 1024,
+    "zoom": "150%"
+  },
+  {
+    "route": "/profile",
+    "width": 683,
+    "selector": "div.profile-photo",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 1024,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 853,
+    "selector": "section.dashboard-hero",
+    "overflowPx": 10,
+    "reason": "scroll-width",
+    "requestedWidth": 1280,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 853,
+    "selector": "div.section-head",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 1280,
+    "zoom": "150%"
+  },
+  {
+    "route": "/profile",
+    "width": 853,
+    "selector": "div.profile-photo",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 1280,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 960,
+    "selector": "section.dashboard-hero",
+    "overflowPx": 10,
+    "reason": "scroll-width",
+    "requestedWidth": 1440,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 960,
+    "selector": "div.section-head",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 1440,
+    "zoom": "150%"
+  },
+  {
+    "route": "/profile",
+    "width": 960,
+    "selector": "div.profile-photo",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 1440,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 1280,
+    "selector": "section.dashboard-hero",
+    "overflowPx": 10,
+    "reason": "scroll-width",
+    "requestedWidth": 1920,
+    "zoom": "150%"
+  },
+  {
+    "route": "/dashboard",
+    "width": 1280,
+    "selector": "div.section-head",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 1920,
+    "zoom": "150%"
+  },
+  {
+    "route": "/profile",
+    "width": 1280,
+    "selector": "div.profile-photo",
+    "overflowPx": 4,
+    "reason": "scroll-width",
+    "requestedWidth": 1920,
+    "zoom": "150%"
+  }
+]
