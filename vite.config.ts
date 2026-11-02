@@ -4,8 +4,14 @@ import tailwindcss from '@tailwindcss/vite'
 import fs from 'node:fs'
 import path from 'node:path'
 
-import siteConfiguration from './.figma/make/site.json'
-
+const siteConfiguration: FigmaSiteConfiguration = {
+  title: 'UIT Student Portal',
+  description: 'A polished student portal for UITU students to access academic services, manage their studies, and find international student resources in one place.',
+  icons: { icon: '/uit-mark-32.png' },
+  openGraph: { image: '/og-uit-portal.jpg' },
+  robots: { index: false },
+  accessibility: { addBypassLinks: false },
+}
 
 // Vite config — https://vitejs.dev/config/
 export default defineConfig(({ mode }) => {
